@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+table{
+    background-color: #8f8f8f;
+    padding: 10px;
+    margin: 10px;
+    border-collapse: collapse;
+    width: 150px;
+    
+}
+th{
+    justify-content: center;
+    text-transform: uppercase;
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 9px;
+    color: white;
+}
+.security{
+    background-color: #474747;
+}
